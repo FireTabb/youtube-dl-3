@@ -6,5 +6,6 @@
 - 2 - 🎬 [Black-Clover-OP-13-(Full-ver.)-「Grandeur」by-Snow-Man](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/Black-Clover-OP-13-%28Full-ver.%29-%E3%80%8CGrandeur%E3%80%8Dby-Snow-Man)
 - 3 - 🎬 [MUSE-Be-With-You-(Official-Music-Video)](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/MUSE-Be-With-You-%28Official-Music-Video%29)
 - 4 - 🎬 [Muse-Nightshift-Superstar-(Official-Lyric-Video)](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/Muse-Nightshift-Superstar-%28Official-Lyric-Video%29)
-- 5 - 🎬 [Muse-The-Dark-Forest-(Official-Lyric-Video)](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/Muse-The-Dark-Forest-%28Official-Lyric-Video%29)
-- 6 - 🎬 [Muse-The-Wow!-Signal-Full-Album-2026](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/Muse-The-Wow%21-Signal-Full-Album-2026)
+- 5 - 🎬 [Muse-Shimmering-Scars-(Official-Music-Video)](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/Muse-Shimmering-Scars-%28Official-Music-Video%29)
+- 6 - 🎬 [Muse-The-Dark-Forest-(Official-Lyric-Video)](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/Muse-The-Dark-Forest-%28Official-Lyric-Video%29)
+- 7 - 🎬 [Muse-The-Wow!-Signal-Full-Album-2026](https://github.com/FireTabb/youtube-dl-3/tree/main/videos/Muse-The-Wow%21-Signal-Full-Album-2026)
